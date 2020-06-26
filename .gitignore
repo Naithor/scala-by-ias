@@ -1,2 +1,9 @@
+### Scala ###
 *.class
 *.log
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
